@@ -25,7 +25,7 @@ const textos = {
             p1: "Refresca tu día",
             p2: "con los mejores jugos y granizados"
         },
-        address: "", // Información no proporcionada
+        address: email, // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
         facebook: "https://www.facebook.com/profile.php?id=100006603399788&mibextid=ZbWKwL",
